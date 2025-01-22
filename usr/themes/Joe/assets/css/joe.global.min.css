@@ -2386,7 +2386,7 @@
   margin-bottom: 18px;
   background: rgba(107, 104, 130, 0.25);
   border-left: 4px solid #2d248a;
-  color: #2d248a;
+  color: #333;
   padding: 8px 15px;
   border-radius: 0 var(--radius-inner) var(--radius-inner) 0;
 }
